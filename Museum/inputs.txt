@@ -1,0 +1,96 @@
+009@empress Museum]$ ./a.out
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: USA
+Enter your age: 23
+Enter the number of hours you explored: 3.5
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 0
+Invalid Choice. Enter 1 or 2: 3
+Invalid Choice. Enter 1 or 2: 1
+Enter your country: Japan
+Enter your age: -1
+The age has to be between 0 and 200. Enter again: 201
+The age has to be between 0 and 200. Enter again: 43
+Enter the number of hours you explored: -0.1
+The number of hours has to to be between 0 and 10.0: 10.1
+The number of hours has to to be between 0 and 10.0: 6.5
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: USA
+Enter your age: 32
+Enter the number of hours you explored: 4
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: Japan
+Enter your age: 20
+Enter the number of hours you explored: 2.5
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 2
+Enter password: 321
+The password is wrong
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 2
+Enter password: 5678
+
+The total number of visitors is 4
+-------- The names of the countries of visitors --------
+Japan USA 
+
+The age of the youngest visitor: 20
+The age of the oldest visitor: 43
+The average age of the visitors: 29
+
+The shortest visit hours: 2.5
+The longest visit hours: 6.5
+The average visit hours: 4.125
+
+Do you want to close the museum? Y or N: a
+Invalid option. Enter Y/y or N/n: X
+Invalid option. Enter Y/y or N/n: n
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: England
+Enter your age: 25
+Enter the number of hours you explored: 3
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: England
+Enter your age: 43
+Enter the number of hours you explored: 3.5
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 2
+Enter password: 5678
+
+The total number of visitors is 6
+-------- The names of the countries of visitors --------
+England Japan USA 
+
+The age of the youngest visitor: 20
+The age of the oldest visitor: 43
+The average age of the visitors: 31
+
+The shortest visit hours: 2.5
+The longest visit hours: 6.5
+The average visit hours: 3.83333
+
+Do you want to close the museum? Y or N: Y
+Enter today's date: 1-30-2021

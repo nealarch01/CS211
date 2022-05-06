@@ -1,0 +1,47 @@
+009@empress Museum]$ ./a.out
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 2
+Enter password: 5678
+The total number of visitors is 0
+Do you want to close the museum? Y or N: N
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: USA
+Enter your age: 20
+Enter the number of hours you explored: 3
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+Enter your country: USA
+Enter your age: 32
+Enter the number of hours you explored: 5.5
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 1
+We cannot take any more visitor information
+==========================================
+1. Visitor
+2. Staff
+Enter your choice: 2
+Enter password: 5678
+
+The total number of visitors is 2
+-------- The names of the countries of visitors --------
+USA 
+
+The age of the youngest visitor: 20
+The age of the oldest visitor: 32
+The average age of the visitors: 26
+
+The shortest visit hours: 3
+The longest visit hours: 5.5
+The average visit hours: 4.25
+
+Do you want to close the museum? Y or N: Y
+Enter today's date: 2-1-2021

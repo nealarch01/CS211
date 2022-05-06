@@ -1,0 +1,14 @@
+STINKY Computer Science is basically the study of problem solving on computers.
+We utilize the power of computers in the problem solving process while dealing with the constraints of computers. 
+We offer to the undergraduate a rich mix of pure and modern Computer Science courses. 
+Common to these offerings are the power, beauty, and utility of computational thought.
+
+FUNKY Applications of Computer Science knowledge include almost every field from business to education, 
+from humanities to social sciences, or from natural sciences to engineering. Therefore, 
+the study of Computer Science contains many fields such as computer architecture, programming 
+languages, computer networking, database systems, information management, artificial intelligence and idiot numerical analysis.
+
+ The Cal State San Marcos undergraduate stupid study in Computer Science emphasizes both theoretical 
+foundations and practical applications. Students will learn algorithms, data structures, 
+software design, the concepts of programming languages, computer organization, and computer architecture. 
+The program stresses analysis and design experiences with substantial laboratory work, including software development.

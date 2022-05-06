@@ -1,0 +1,114 @@
+nealarchival@Neals-MBP CollegeLab % ./a.out
+-------- adding the first student --------
+Enter student first name: Kaz
+Enter student last name: Slott
+Enter student gender: f
+
+-------- showing the first student --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+-------- addiing 111 to a student --------
+Add course: 111
+111 has been added successfully
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 1
+Courses: 111, 
+Amount owed $50.14
+
+-------- addiing 222 to a student --------
+Add course: 222
+222 has been added successfully
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 2
+Courses: 111, 222, 
+Amount owed $100.28
+
+-------- addiing 222 again to a student ==> error --------
+Add course: 222
+222 was not added because you have 222 already
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 2
+Courses: 111, 222, 
+Amount owed $100.28
+
+-------- removing 222 --------
+Enter course number to be removed: 222
+222 has been dropped successfully.
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 1
+Courses: 111, 
+Amount owed $50.14
+
+-------- removing 333 ==> error --------
+Enter course number to be removed: 333
+333 wasn't dropped from Kaz because 333 doesn't exist
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 1
+Courses: 111, 
+Amount owed $50.14
+
+########################################################################################
+If you didn't work on bonus feature, enter 20 0. If you did, enter 20
+########################################################################################
+-------- making a payment --------
+Enter amount you want to pay: 20 0
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 1
+Courses: 111, 
+Amount owed $30.14
+
+########################################################################################
+If you didn't work on bonus feature, enter 10 14. If you did, enter 10.14
+########################################################################################
+-------- making a payment --------
+Enter amount you want to pay: 10 14
+-------- showing the info --------
+--------------------
+first name: Kaz
+last name: Slott
+gender: f
+stu id: 100000
+num classes: 1
+Courses: 111, 
+Amount owed $20.00
+
+########################################################################################
+Did you work on the bonus feature where you reject an over payment? Enter Y or N:n
+You didn't work on the bonus feather for overpayment

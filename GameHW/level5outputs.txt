@@ -1,0 +1,61 @@
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+5 * 18 = 90
+40 / 20 = 2
+22 + 90 = 112
+You Lose
+You answered 3 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+68 - 64 = 2
+WRONG. try again. 68 - 64 = 4
+7 + 76 = 83
+64 - 31 = 33
+You Lose
+You answered 3 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+3 + 45 = 48
+14 * 12 = 168
+You Lose
+You answered 2 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+15 * 10 = 150
+79 - 38 = 41
+2 * 3 = 6
+2 * 17 = 34
+45 + 60 = 105
+48 - 13 = 35
+You Lose
+You answered 6 questions correctlynealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+5 * 18 = 90
+40 / 20 = 2
+22 + 90 = 112
+You Lose
+You answered 3 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+68 - 64 = 2
+WRONG. try again. 68 - 64 = 4
+7 + 76 = 83
+64 - 31 = 33
+You Lose
+You answered 3 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+3 + 45 = 48
+14 * 12 = 168
+You Lose
+You answered 2 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 5
+15 * 10 = 150
+79 - 38 = 41
+2 * 3 = 6
+2 * 17 = 34
+45 + 60 = 105
+48 - 13 = 35
+You Lose
+You answered 6 questions correctly.

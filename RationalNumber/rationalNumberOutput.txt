@@ -1,0 +1,11 @@
+nealarchival@Nelsons-Air Homeworks % g++ rationalNumber.cpp
+nealarchival@Nelsons-Air Homeworks % ./a.out
+Rational Number 1: 
+        Enter numerator: 6
+        Enter denominator: 5
+Rational Number 2: 
+        Enter numerator: 13
+        Enter denominator: 10
+   6     13      5
+---- + ---- = ----
+   5     10      2

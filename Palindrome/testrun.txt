@@ -1,0 +1,11 @@
+archi009@empress Palindrome]$ ./a.out
+"abcdba" is NOT a palindrome
+"Racecar " is a palindrome
+"Race car " is a palindrome
+"Santa at Nasa" is NOT a palindrome
+"Pop" is a palindrome
+"Ada " is a palindrome
+"Anna" is a palindrome
+"A Santa at Nasa." is a palindrome
+"as in nasa" is NOT a palindrome
+"A Toyota! Race fast, safe car! A Toyota!" is a palindrome

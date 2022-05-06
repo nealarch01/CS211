@@ -1,0 +1,29 @@
+nealarchival@Neals-MBP ~ % cd Desktop/CS211/Lab/Palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: Racecar
+"Racecar" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out        
+Enter a message: Race car
+"Race car" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: Santa at Nasa
+"Santa at Nasa" is not a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: Pop
+"Pop" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: Ada
+"Ada" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: Anna
+"Anna" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: A Santa at Nasa
+"A Santa at Nasa" is a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: as in nasa
+"as in nasa" is not a palindrome
+nealarchival@Neals-MBP Palindrome % ./a.out
+Enter a message: A Toyota! Race fast, safe car! A Toyota!
+"A Toyota! Race fast, safe car! A Toyota!" is a palindrome
+nealarchival@Neals-MBP Palindrome % 

@@ -1,0 +1,576 @@
+nealarchival@MacBook-Pro CollegeLab % ./a.out
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 1
+Enter admissions office password: 100
+Wrong password
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 1
+Enter admissions office password: 123
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 1
+Enter student first name: Kathy     
+Enter student last name: Smith
+Enter student gender: f
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 5    
+--------------------
+first name: Kathy
+last name: Smith
+gender: f
+stu id: 100000
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 2
+Enter a filename: bad.tct
+bad.tct does not exist.
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 2
+Enter a filename: college.dat
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 5
+--------------------
+first name: Kathy
+last name: Smith
+gender: f
+stu id: 100000
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Wayne
+last name: Gretzky
+gender: m
+stu id: 100001
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Claude
+last name: Debussy
+gender: m
+stu id: 100003
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 3
+Enter the student ID: 10001
+Student with ID 10001 does not exist.
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 3
+Enter the student ID: 100001
+Wayne Gretzky has been removed
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 5
+--------------------
+first name: Kathy
+last name: Smith
+gender: f
+stu id: 100000
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Claude
+last name: Debussy
+gender: m
+stu id: 100003
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 5
+--------------------
+first name: Kathy
+last name: Smith
+gender: f
+stu id: 100000
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+--------------------
+first name: Claude
+last name: Debussy
+gender: m
+stu id: 100003
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 4
+Enter student ID: 100001
+Student id not found
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 4
+Enter student ID: 100002
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 0
+Courses: 
+Amount owed $0.00
+
+
+***************************
+1: Add a new student
+2: Add new students from a file
+3: drop a student
+4: View one student info
+5: View all students' info
+6: Quit
+***************************
+Enter your choice: 6
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 2
+Enter student ID: 123
+Student id not found
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 100002
+	Invalid choice. Enter only 1, 2 or 3: 2
+Enter student ID: 100002
+Enter password: 25
+The password is wrong
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 2
+Enter student ID: 100002
+Enter password: 27
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 1
+Add course: 111
+111 has been added successfully
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 1
+Courses: 111, 
+Amount owed $50.14
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 1
+Add course: 222
+222 has been added successfully
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 2
+Courses: 111, 222, 
+Amount owed $100.28
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 2
+Courses: 111, 222, 
+Amount owed $100.28
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 1
+Add course: 111
+111 was not added because you have 111 already
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 2
+Courses: 111, 222, 
+Amount owed $100.28
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 1
+Add course: 333
+333 has been added successfully
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 3
+Courses: 111, 222, 333, 
+Amount owed $150.42
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 2
+Enter course number to be removed: 222
+222 has been dropped successfully.
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 2
+Courses: 111, 333, 
+Amount owed $100.28
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 2
+Enter course number to be removed: 111
+111 has been dropped successfully.
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 1
+Courses: 333, 
+Amount owed $50.14
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 3
+Enter amount you want to pay: 10 0
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 1
+Courses: 333, 
+Amount owed $40.14
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 3
+Enter amount you want to pay: 40 0
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 1
+Courses: 333, 
+Amount owed $0.14
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 3
+Enter amount you want to pay: 0 14
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 4
+--------------------
+first name: Johann
+last name: Bach
+gender: m
+stu id: 100002
+num classes: 1
+Courses: 333, 
+Amount owed $0.00
+
+
+***************************
+1: Add a course
+2: drop a course
+3: Make a payment
+4: View my information
+5: Quit
+***************************
+Enter your choice: 6
+	Invalid choice. Enter only 1 through 5: 5
+========================================================
+1: Admission's Office
+2: Student
+3: End program
+========================================================
+Enter your choice: 3

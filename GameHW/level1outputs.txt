@@ -1,0 +1,54 @@
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+10 * 13 = 130
+74 / 70 = 1
+76 / 28 = 2
+You win
+You answered 3 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+5 * 19 = 95
+19 * 7 = 113
+WRONG. try again. 19 * 7 = 133
+1 + 76 = 77
+16 / 4 = 4
+96 + 40 = 136
+69 / 38 = 2
+WRONG. try again. 69 / 38 = 1
+17 - 5 = 12
+53 - 6 = 57
+WRONG. try again. 53 - 6 = 47
+33 + 4 = 37
+84 - 67 = 17
+You Lose
+You answered 10 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+18 * 3 = 54
+2 * 12 = 24
+82 - 34 = 48
+5 + 6 = 11
+40 + 57 = 97
+15 * 13 = 185
+WRONG. try again. 15 * 13 = 195
+8 * 5 = 490
+WRONG. try again. 8 * 5 = 40
+18 * 15 = 280
+You Lose
+You answered 7 questions correctly.
+nealarchival@Nelsons-Air GameHW % ./a.out
+Which level do you want to try? 1 (easy) to 5 (hard): 1
+15 + 46 = 61
+20 * 11 = 220
+34 - 16 = 18
+94 / 28 = 3
+11 / 4 = 2
+18 * 20 = 360
+91 / 78 = 1
+15 + 37 = 52
+7 * 3 = 21
+71 + 21 = 92
+52 + 45 = 97
+You win
+You answered 11 questions correctly.
+nealarchival@Nelsons-Air GameHW % 

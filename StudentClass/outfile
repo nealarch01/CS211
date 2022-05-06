@@ -1,0 +1,23 @@
+111 has been added
+111 has been added
+222 has been added
+222 has not been added because the schedule is full
+333 has been added
+444 has been added
+555 has been added
+666 has been added
+---- Kathy is taking ----
+111 
+---- Mike is taking ----
+111 222 333 444 555 666 
+777 has not been added because the schedule is full
+The student is not taking 222
+111 has been dropped
+The student is not taking 111
+333 has been dropped
+666 has been dropped
+111 has been dropped
+---- Kathy is taking ----
+
+---- Mike is taking ----
+222 444 555 
